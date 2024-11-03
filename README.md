@@ -67,13 +67,13 @@ Prerequisite:
 
 • Configuring the Data Source with HTTP template as we are using http request to get the data from GitHub repo.
 
-• Establishing the Linked Services for source(i.e, using Https).
+• Establishing the Linked Services for source(i.e, using Https), Sink(i.e, Adls gen2).
 
-• Configuring the File Format for and setting up the Linked Service Sink(i.e, Adls gen2).
+•  parameterize the file for source,sink.
 
-• Repeat above steps to load all other datasets.
-
-• You can connect all the copy data activity together and run them all at once.
+• create a Json with all parameterized values.
+•
+•
 
 • You can use Manual (or) Scheduled Trigger to run this Pipeline.
 
