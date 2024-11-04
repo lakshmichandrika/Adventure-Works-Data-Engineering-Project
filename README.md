@@ -72,10 +72,12 @@ Prerequisite:
 •  parameterize the file for source,sink.
 
 • create a Json with all parameterized values.
-•
-•
 
 • You can use Manual (or) Scheduled Trigger to run this Pipeline.
+![image](https://github.com/user-attachments/assets/abbe3b0f-417c-45c5-94d2-b874a4da9667)
+
+![image](https://github.com/user-attachments/assets/8f2bed68-222d-45b5-ac6b-f5198549f4c5)
+
 
 
 
